@@ -6,7 +6,7 @@
 <h3 align="left">🚀 Year 2 NUS Business Analytics (Machine Learning Specialization)</h3>
 <h3 align="left">📈 Aspiring Software Engineer / Machine Learning Engineer</h3>
 
-<p align="center">
+<p align="left">
     I'm passionate about building data-driven solutions to drive business insights, solving complex problems, and learning through real-world applications.
     Currently, I’m working on exciting projects such as a music recommendation system <code>Spotifynd</code>, food social media platform <code>Nomster</code>, and a Telegram chatbot to promote mental wellness <code>Hear2Help</code>.
 </p>
