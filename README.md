@@ -1,32 +1,97 @@
-# Hi! I'm Yeow Kang 👋
+<h1 align="center">
+    Hi! I'm Yeow Kang 👋
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="40px" padding="0"/>
+</h1>
 
-🚀 Year 2 NUS Business Analytics (Machine Learning Specialization) 
-📈 Aspiring Software Engineer / Machine Learning Engineer
+<h3 align="left">🚀 Year 2 NUS Business Analytics (Machine Learning Specialization)</h3>
+<h3 align="left">📈 Aspiring Software Engineer / Machine Learning Engineer</h3>
 
-I’m passionate about building data-driven solutions to drive business insights, solving complex problems, and learning through real-world applications. Currently, I’m working on exciting projects such as a music recommendation system `Spotifynd`, food social media platform `Nomster`, and a Telegram chatbot to promote mental wellness `Hear2Help`.
+<p align="center">
+    I'm passionate about building data-driven solutions to drive business insights, solving complex problems, and learning through real-world applications.
+    Currently, I’m working on exciting projects such as a music recommendation system <code>Spotifynd</code>, food social media platform <code>Nomster</code>, and a Telegram chatbot to promote mental wellness <code>Hear2Help</code>.
+</p>
 
-## Languages, Frameworks, and Tools:
+<h3 align="left">Languages, Frameworks, and Tools</h3>
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td valign="top" width="100%">
+      <table align="center" width="100%" style="border-collapse: collapse;">
+        <tr>
+          <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
+          <td align="center">Python</td>
+          <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /></a></td>
+          <td align="center">NumPy</td>
+          <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /></a></td>
+          <td align="center">scikit-learn</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /></a></td>
+          <td align="center">PyTorch</td>
+          <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></a></td>
+          <td align="center">TensorFlow</td>
+          <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" /></a></td>
+          <td align="center">Matplotlib</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a></td>
+          <td align="center">React</td>
+          <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" /></a></td>
+          <td align="center">Django</td>
+          <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" /></a></td>
+          <td align="center">SQL</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" /></a></td>
+          <td align="center">Vue.js</td>
+          <td align="center"><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" /></a></td>
+          <td align="center">GCP</td>
+          <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a></td>
+          <td align="center">Docker</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- **Programming Languages**: Python, Java, JavaScript
-- **Machine Learning**: scikit-learn, PyTorch, TensorFlow, librosa
-- **Data Analytics**: Pandas, NumPy, Matplotlib, R, SQL
-- **Front-End Web Development**: React, Vue.js, HTML, CSS, Tailwind, Figma, Canva
-- **Back-End Web Development**: Django, Flask, Node.js, Express.js
+<h3 align="center">Relevant Technical Experiences</h3>
 
-## Relevant Technical Experiences:
+<table style="width: 100%; table-layout: fixed; text-align: center; border-collapse: collapse;">
+  <tr>
+    <th>Year</th>
+    <th>Role</th>
+    <th>Company</th>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td>Data Analyst Intern</td>
+    <td>MariBank</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Undergraduate Teaching Assistant (Programming Methodology in Python)</td>
+    <td>NUS Computing</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>Machine Learning Analyst Trainee</td>
+    <td>NUS Fintech Society</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>Business Associate</td>
+    <td>Google Developer Student Club (NUS)</td>
+  </tr>
+</table>
 
-| Year  | Role                          | Company                   |
-|-------|--------------------------------|---------------------------|
-| 2025  | Data Analyst Intern                 | MariBank                   |
-| 2024  | Undergraduate Teaching Assistant (Programming Methodology in Python) | NUS Computing |
-| 2024  | Machine Learning Analyst Trainee                | NUS Fintech Society                |
-| 2023  | Business Associate             | Google Developer Student Club (NUS)          |
+<h3 align="center">Some Statistics</h3>
 
-## Some Statistics
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ykwong2002?ext=contest" alt="LeetCode" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwong2002&layout=compact" alt="Top Languages" />
+</p>
 
-![LeetCode Statistics](https://leetcode-badge-sage.vercel.app/badge/{kangenoob}?theme={light})
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ykwong2002&layout=compact)
-
-## Social Media & Contact:
-- [LinkedIn](https://www.linkedin.com/in/wongyeowkang/)
-- [Website](https://wongyeowkang.netlify.app/)
+<h3 align="center">Social Media & Contact</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/wongyeowkang/" target="_blank">LinkedIn</a> • 
+  <a href="https://wongyeowkang.netlify.app/" target="_blank">Website</a>
+</p>
