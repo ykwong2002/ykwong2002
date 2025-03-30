@@ -38,18 +38,18 @@
     <td align="center">SQL</td>
   </tr>
   <tr>
+    <td align="center"><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" /></a></td>
+    <td align="center">Node.js</td>
+    <td align="center"><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" /></a></td>
+    <td align="center">Express.js</td>
     <td align="center"><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" /></a></td>
     <td align="center">Vue.js</td>
-    <td align="center"><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40" /></a></td>
-    <td align="center">GCP</td>
-    <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a></td>
-    <td align="center">Docker</td>
   </tr>
 </table>
 
 <h3 align="center">Relevant Technical Experiences</h3>
 
-<table style="width: 100%; table-layout: fixed; text-align: center; border-collapse: collapse;">
+<table style="width: 100%; table-layout: fixed; text-align: center; border-collapse: collapse; align: center">
   <tr>
     <th>Year</th>
     <th>Role</th>
