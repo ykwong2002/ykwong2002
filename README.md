@@ -80,8 +80,8 @@
 <h3 align="center">Some Statistics</h3>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/kangenoob?ext=contest" alt="LeetCode" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwong2002&layout=compact" alt="Top Languages" />
+  <img src="https://leetcard.jacoblin.cool/kangenoob?ext=contest" alt="LeetCode" width=auto height="200" style="display: inline-block; margin: 10px; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykwong2002&layout=compact" alt="Top Languages" width=auto height="200" style="display: inline-block; margin: 10px; border-radius: 10px;" />
 </p>
 
 <h3 align="center">Social Media & Contact</h3>
