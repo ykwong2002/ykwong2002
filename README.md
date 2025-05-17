@@ -8,7 +8,7 @@
 
 <p align="left">
     I'm passionate about building data-driven solutions to drive business insights, solving complex problems, and learning through real-world applications.
-    Currently, I’m working on exciting projects such as a music recommendation system <code>Spotifynd</code>, food social media platform <code>Nomster</code>, and a Telegram chatbot to promote mental wellness <code>Hear2Help</code>.
+    Currently, I’m working on exciting projects such as a music recommendation system <code>Spotifynd</code>, food social media platform <code>Nomster</code>, and a Telegram chatbot to improve networking <code>LinkList Bot</code>.
 </p>
 
 <h3 align="center">Languages, Frameworks, and Tools</h3>
