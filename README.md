@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Hi" width="40px" padding="0"/>
 </h1>
 
-<h3 align="left">🚀 Year 2 NUS Business Analytics (Machine Learning Specialization)</h3>
+<h3 align="left">🚀 Year 3 NUS Business Analytics (Machine Learning Specialization)</h3>
 <h3 align="left">📈 Aspiring Software Engineer / Machine Learning Engineer</h3>
 
 <p align="left">
